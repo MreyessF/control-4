@@ -1,4 +1,4 @@
-# Sistema de Reservas ByteCoffee (versión simple)
+# Sistema de Reservas ByteCoffee 
 
 cupos_gamer = 3
 cupos_estudio = 5
@@ -154,3 +154,4 @@ while True:
 
     else:
         print("Opción inválida.")
+
